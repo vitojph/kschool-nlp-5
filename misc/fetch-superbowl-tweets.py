@@ -28,7 +28,7 @@ messages = {}
 stop = datetime(2018, 2, 5, 8, 0, 0)
 
 # abrimos un fichero de escritura para ir guardando los tweets
-with open('twitter-messages.txt', 'w') as outfile:
+with open('twitter-messages.tsv', 'w') as outfile:
     i = 1
     while datetime.now() < stop:
         print('.', end='', flush=True) # cutre-barra de progreso
