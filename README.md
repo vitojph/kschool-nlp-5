@@ -27,6 +27,9 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 
 - [Stanford NLP](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/) ([materiales](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml))
 
+- [Natural Language Processing, Johns Hopkins University](http://www.cs.jhu.edu/~jason/465/)
+
+
 - [Programming for Linguists (and fellow travelers)](http://web.stanford.edu/class/linguist278/) ([materiales](http://web.stanford.edu/class/linguist278/syllabus.html))
 
 - [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -49,6 +52,8 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 - [The Two Paths from NLP to AI](https://medium.com/intuitionmachine/the-two-paths-from-natural-language-processing-to-artificial-intelligence-d5384ddbfc18#.hnswmbbd3)
 
 - [Natural Language Processing Key Terms, Explained](http://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html)
+
+- [4 Approaches to NLP](https://mariyayao.com/4-approaches-natural-language-processing/)
 
 
 ## Resources
