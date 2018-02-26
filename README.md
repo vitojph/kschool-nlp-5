@@ -21,7 +21,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 
 ## MOOCs, Courses and Other Materials
 
-- [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing).
+- Dragomir Radev's *Introduction to Natural Language Processing* is no longer on Coursera. But here there are [some materials](https://web.eecs.umich.edu/~radev/coursera-slides/).
 
 - Some years ago, Manning & Jurafsky organized a course on NLP at Coursera. There are some [slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and [videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269).
 
